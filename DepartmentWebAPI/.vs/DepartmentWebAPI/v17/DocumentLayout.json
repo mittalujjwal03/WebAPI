@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B622F12-F9A1-4793-989A-BCBAA5CBC068}|Presentation Layer\\Presentation Layer.csproj|c:\\users\\hp\\source\\repos\\webapi\\departmentwebapi\\presentation layer\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B622F12-F9A1-4793-989A-BCBAA5CBC068}|Presentation Layer\\Presentation Layer.csproj|solutionrelative:presentation layer\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B622F12-F9A1-4793-989A-BCBAA5CBC068}|Presentation Layer\\Presentation Layer.csproj|c:\\users\\hp\\source\\repos\\webapi\\departmentwebapi\\presentation layer\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B622F12-F9A1-4793-989A-BCBAA5CBC068}|Presentation Layer\\Presentation Layer.csproj|solutionrelative:presentation layer\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B622F12-F9A1-4793-989A-BCBAA5CBC068}|Presentation Layer\\Presentation Layer.csproj|c:\\users\\hp\\source\\repos\\webapi\\departmentwebapi\\presentation layer\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B622F12-F9A1-4793-989A-BCBAA5CBC068}|Presentation Layer\\Presentation Layer.csproj|solutionrelative:presentation layer\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758DC1EC-7BB8-4CB1-AE0F-057527984AEB}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\webapi\\departmentwebapi\\dataaccesslayer\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758DC1EC-7BB8-4CB1-AE0F-057527984AEB}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758DC1EC-7BB8-4CB1-AE0F-057527984AEB}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\webapi\\departmentwebapi\\dataaccesslayer\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758DC1EC-7BB8-4CB1-AE0F-057527984AEB}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758DC1EC-7BB8-4CB1-AE0F-057527984AEB}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\webapi\\departmentwebapi\\dataaccesslayer\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758DC1EC-7BB8-4CB1-AE0F-057527984AEB}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758DC1EC-7BB8-4CB1-AE0F-057527984AEB}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\webapi\\departmentwebapi\\dataaccesslayer\\irepository\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758DC1EC-7BB8-4CB1-AE0F-057527984AEB}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\irepository\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758DC1EC-7BB8-4CB1-AE0F-057527984AEB}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\webapi\\departmentwebapi\\dataaccesslayer\\repository\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758DC1EC-7BB8-4CB1-AE0F-057527984AEB}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B622F12-F9A1-4793-989A-BCBAA5CBC068}|Presentation Layer\\Presentation Layer.csproj|c:\\users\\hp\\source\\repos\\webapi\\departmentwebapi\\presentation layer\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B622F12-F9A1-4793-989A-BCBAA5CBC068}|Presentation Layer\\Presentation Layer.csproj|solutionrelative:presentation layer\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B622F12-F9A1-4793-989A-BCBAA5CBC068}|Presentation Layer\\Presentation Layer.csproj|c:\\users\\hp\\source\\repos\\webapi\\departmentwebapi\\presentation layer\\views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B622F12-F9A1-4793-989A-BCBAA5CBC068}|Presentation Layer\\Presentation Layer.csproj|solutionrelative:presentation layer\\views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B622F12-F9A1-4793-989A-BCBAA5CBC068}|Presentation Layer\\Presentation Layer.csproj|c:\\users\\hp\\source\\repos\\webapi\\departmentwebapi\\presentation layer\\views\\departments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B622F12-F9A1-4793-989A-BCBAA5CBC068}|Presentation Layer\\Presentation Layer.csproj|solutionrelative:presentation layer\\views\\departments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B622F12-F9A1-4793-989A-BCBAA5CBC068}|Presentation Layer\\Presentation Layer.csproj|c:\\users\\hp\\source\\repos\\webapi\\departmentwebapi\\presentation layer\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B622F12-F9A1-4793-989A-BCBAA5CBC068}|Presentation Layer\\Presentation Layer.csproj|solutionrelative:presentation layer\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B622F12-F9A1-4793-989A-BCBAA5CBC068}|Presentation Layer\\Presentation Layer.csproj|c:\\users\\hp\\source\\repos\\webapi\\departmentwebapi\\presentation layer\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B622F12-F9A1-4793-989A-BCBAA5CBC068}|Presentation Layer\\Presentation Layer.csproj|solutionrelative:presentation layer\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B622F12-F9A1-4793-989A-BCBAA5CBC068}|Presentation Layer\\Presentation Layer.csproj|c:\\users\\hp\\source\\repos\\webapi\\departmentwebapi\\presentation layer\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B622F12-F9A1-4793-989A-BCBAA5CBC068}|Presentation Layer\\Presentation Layer.csproj|solutionrelative:presentation layer\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B622F12-F9A1-4793-989A-BCBAA5CBC068}|Presentation Layer\\Presentation Layer.csproj|c:\\users\\hp\\source\\repos\\webapi\\departmentwebapi\\presentation layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B622F12-F9A1-4793-989A-BCBAA5CBC068}|Presentation Layer\\Presentation Layer.csproj|solutionrelative:presentation layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758DC1EC-7BB8-4CB1-AE0F-057527984AEB}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\webapi\\departmentwebapi\\dataaccesslayer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758DC1EC-7BB8-4CB1-AE0F-057527984AEB}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B622F12-F9A1-4793-989A-BCBAA5CBC068}|Presentation Layer\\Presentation Layer.csproj|c:\\users\\hp\\source\\repos\\webapi\\departmentwebapi\\presentation layer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B622F12-F9A1-4793-989A-BCBAA5CBC068}|Presentation Layer\\Presentation Layer.csproj|solutionrelative:presentation layer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758DC1EC-7BB8-4CB1-AE0F-057527984AEB}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\webapi\\departmentwebapi\\dataaccesslayer\\irepository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758DC1EC-7BB8-4CB1-AE0F-057527984AEB}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\irepository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\DataAccessLayer\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\DataAccessLayer\\Models\\Department.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\Department.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:30:08.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\DataAccessLayer\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\DataAccessLayer\\Models\\Employee.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\Employee.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA6wCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:29:53.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\DataAccessLayer\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\DataAccessLayer\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwBsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:32:44.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\Presentation Layer\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentation Layer\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\Presentation Layer\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "Presentation Layer\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T06:19:40.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\Presentation Layer\\Views\\Departments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Presentation Layer\\Views\\Departments\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\Presentation Layer\\Views\\Departments\\Delete.cshtml",
+              "RelativeToolTip": "Presentation Layer\\Views\\Departments\\Delete.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T06:18:40.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\Presentation Layer\\Views\\Departments\\Details.cshtml",
+              "RelativeDocumentMoniker": "Presentation Layer\\Views\\Departments\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\Presentation Layer\\Views\\Departments\\Details.cshtml",
+              "RelativeToolTip": "Presentation Layer\\Views\\Departments\\Details.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAewBAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T06:19:00.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\Presentation Layer\\Views\\Employees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Presentation Layer\\Views\\Employees\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\Presentation Layer\\Views\\Employees\\Delete.cshtml",
+              "RelativeToolTip": "Presentation Layer\\Views\\Employees\\Delete.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T06:19:19.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\Presentation Layer\\Views\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "Presentation Layer\\Views\\Employees\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\Presentation Layer\\Views\\Employees\\Details.cshtml",
+              "RelativeToolTip": "Presentation Layer\\Views\\Employees\\Details.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T06:19:28.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\DataAccessLayer\\IRepository\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\IRepository\\IDepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\DataAccessLayer\\IRepository\\IDepartmentRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\IRepository\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:31:38.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\DataAccessLayer\\Repository\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\DataAccessLayer\\Repository\\DepartmentRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:32:25.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\Presentation Layer\\Views\\Departments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentation Layer\\Views\\Departments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\Presentation Layer\\Views\\Departments\\Index.cshtml",
+              "RelativeToolTip": "Presentation Layer\\Views\\Departments\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T06:19:11.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\Presentation Layer\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Presentation Layer\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\Presentation Layer\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Presentation Layer\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:58:46.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\Presentation Layer\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Presentation Layer\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\Presentation Layer\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Presentation Layer\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:59:51.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\Presentation Layer\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Presentation Layer\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\Presentation Layer\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Presentation Layer\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:00:01.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\DataAccessLayer\\IRepository\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\IRepository\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\DataAccessLayer\\IRepository\\IEmployeeRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\IRepository\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:31:52.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\DataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\DataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:30:41.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\Presentation Layer\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation Layer\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\Presentation Layer\\Program.cs",
+              "RelativeToolTip": "Presentation Layer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:38:36.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\Presentation Layer\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation Layer\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebAPI\\DepartmentWebAPI\\Presentation Layer\\appsettings.json",
+              "RelativeToolTip": "Presentation Layer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T05:37:14.591Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
